@@ -1,4 +1,5 @@
-Aim of this repository is to create evals for multi-turn dialogues, using AISI's inspect framework.
+Aim of this repository is to create evals for multi-turn dialogues, using [AISI's Inspect open source framework](https://ukgovernmentbeis.github.io/inspect_ai/).
+If you know nothing about Inspect, I wrote a [detailed guide](https://lovkush.medium.com/evaluating-llms-using-uk-ai-safety-institutes-inspect-framework-96435c9352f3) going through their hello world example. (You can also read their documentation. :P)
 
 ## Repository structure
 - `multi_dialogues.ipynb`. Main file for this repository. Contains example eval workflow.
